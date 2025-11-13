@@ -2,7 +2,7 @@
 Nama        :   Khaled Meshaal Ahmadinejad Mujaddid Thariq Mardova Fadhilah
 NPM         :   140810250056
 Kelas       :   C
-Deskripsi   :   Latihan selection sort ascending
+Deskripsi   :   Latihan selection sort Descending
 */
 
 #include <iostream>
